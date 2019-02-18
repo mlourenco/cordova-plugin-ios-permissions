@@ -1,0 +1,11 @@
+"NSBluetoothPeripheralUsageDescription" = "Esta aplicación requiere acceso bluetooth para funcionar correctamente.";
+"NSCalendarsUsageDescription" = "Esta aplicación requiere acceso al calendario para funcionar correctamente.";
+"NSCameraUsageDescription" = "La aplicación desea acceder a la cámara, para reportar daños en el automóvil.";
+"NSContactsUsageDescription" = "Esta aplicación requiere acceso a contactos para funcionar correctamente.";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Esta aplicación requiere acceso constante a su ubicación para rastrear su posición, incluso cuando la pantalla está apagada o la aplicación está en segundo plano.";
+"NSLocationAlwaysUsageDescription" = "Esta aplicación requiere acceso constante a su ubicación para rastrear su posición, incluso cuando la pantalla está apagada o la aplicación está en segundo plano.";
+"NSLocationWhenInUseUsageDescription" = "La aplicación desea acceder a su ubicación para identificar el auto más cercano.";
+"NSMicrophoneUsageDescription" = "Esta aplicación requiere acceso de micrófono para funcionar correctamente.";
+"NSMotionUsageDescription" = "Esta aplicación requiere acceso de detección de movimiento para funcionar correctamente.";
+"NSPhotoLibraryUsageDescription" = "Esta aplicación requiere acceso a la biblioteca de fotos para funcionar correctamente.";
+"NSRemindersUsageDescription" = "Esta aplicación requiere recordatorios de acceso para funcionar correctamente.";
