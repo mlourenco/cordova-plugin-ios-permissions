@@ -39,7 +39,7 @@
 		<config-file target="*-Info.plist" parent="NSRemindersUsageDescription">
 			<string>This app requires reminders access to function properly.</string>
 		</config-file>
-
+		<resource-file src="src/ios/Base.lproj" />
 		<resource-file src="src/ios/en.lproj" />
 		<resource-file src="src/ios/es.lproj" />
 	</platform>
