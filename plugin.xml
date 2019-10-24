@@ -9,6 +9,9 @@
 		<config-file target="*-Info.plist" parent="NSBluetoothPeripheralUsageDescription">
 			<string>This app requires bluetooth access to function properly.</string>
 		</config-file>
+		<config-file target="*-Info.plist" parent="NSBluetoothAlwaysUsageDescription">
+			<string>This app requires bluetooth access to function properly.</string>
+		</config-file>
 		<config-file target="*-Info.plist" parent="NSCalendarsUsageDescription">
 			<string>This app requires calendar access to function properly.</string>
 		</config-file>
