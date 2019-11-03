@@ -1,4 +1,5 @@
 "NSBluetoothPeripheralUsageDescription" = "This app requires bluetooth access to function properly.";
+"NSBluetoothAlwaysUsageDescription" = "This app requires bluetooth access to function properly.";
 "NSCalendarsUsageDescription" = "This app requires calendar access to function properly.";
 "NSCameraUsageDescription" = "App would like to access the camera, for reporting car damage.";
 "NSContactsUsageDescription" = "This app requires contacts access to function properly.";
